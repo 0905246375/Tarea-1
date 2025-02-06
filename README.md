@@ -1,3 +1,5 @@
 # Tarea-1
 Nuestra primer tarea en parejas
-Integrante 1: Tahly Yuliana Jiménez Boteo
+Integrante 1: Tahly Yuliana Jimï¿½nez Boteo
+Integrante 2: Cristian Alexander Castillo Castillo
+

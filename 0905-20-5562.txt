@@ -1,0 +1,9 @@
+1. ¿Qué aprendiste sobre el flujo de trabajo con git y GitHub?
+ Aprendi que sirve para gestionar varias versiones de un mismo proyecto
+
+ 2. ¿Como fue la experiencia de trabajar en parejas? ¿Encontraste algun conflicto? ¿Como lo resolviste?
+ Fue una experiencia buena ya que aprendimos a resolver los conflictos que surgieron en el camino, dichos conflictos se resolvieron mediante el uso de internet.
+
+ 3. ¿Que ventajas crees que tiene usar Git en proyectos de programacion?
+
+ Se puede trabajar en grupo y llevar un historial de todo el proceso del proyecto
